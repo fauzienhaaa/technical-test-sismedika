@@ -1,0 +1,5 @@
+# Node.js dependencies
+/real-world-cypress/node_modules/
+
+# .env
+# cypress.env.json
